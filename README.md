@@ -1,5 +1,7 @@
 # Saliencies, not Face-Template Features, Guide Young Infants to Faces in Everyday Experience
 
+[![DOI](https://zenodo.org/badge/1181976525.svg)](https://doi.org/10.5281/zenodo.19035197)
+
 ## Overview
 This repository contains the R code and datasets for the following paper:
 
